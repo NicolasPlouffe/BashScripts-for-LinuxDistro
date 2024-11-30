@@ -17,6 +17,8 @@ apps=(
     "com.vixalien.sticky"
     "org.gimp.GIMP"
     "com.jgraph.drawio.desktop"
+    "com.redis.RedisInsight"
+    "com.getpostman.Postman"
 )
 
 # Fonction pour afficher le menu
